@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://www.ctoexecute.com/brand/social/cto-execute-social-banner-1500x500.png" alt="CTO Execute Banner" width="100%" />
+</div>
+
 # Harold Caicedo — Technical Architect & Senior Software Engineer
 
 I partner with founders and lean product teams to clarify technical risk, de-risk production codebases, and execute critical product layers without agency overhead. Through **[CTO Execute](https://www.ctoexecute.com)**, I turn technical uncertainty into a practical, structured execution plan.
@@ -10,6 +14,18 @@ I partner with founders and lean product teams to clarify technical risk, de-ris
 * **Execution Sprints:** Direct, senior-level implementation of core application layers, API integrations, and product architecture with a strictly defined scope.
 * **Modern Production Stacks:** Hands-on engineering focused on high-performance SaaS frameworks and robust data backends: Python, Next.js, React, TypeScript, Supabase, Vercel, and PostgreSQL.
 * **Enterprise & Workflow Automation:** Advanced backend workflow streamlining using the Odoo ecosystem (custom modules and data migrations) and automation architectures (n8n / AI Agents).
+
+### 🚀 Core Focus & Technical Stacks
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</div>
 
 ---
 
